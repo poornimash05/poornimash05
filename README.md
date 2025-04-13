@@ -1,7 +1,6 @@
 ### Hi there, I'm Poornima Sharma 👋
 
-🚀 About
-🎓 A passionate Software Engineer with experience in both embedded IoT systems and web development. I'm enthusiastic about building robust, scalable, and user-centric solutions that solve real-world problems.
+🚀 A passionate Software Engineer with experience in both embedded IoT systems and web development. I'm enthusiastic about building robust, scalable, and user-centric solutions that solve real-world problems.
 
 ### 💻 Technical Skills
 
