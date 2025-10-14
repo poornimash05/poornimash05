@@ -28,6 +28,7 @@
 **Email:** poornimasharma022@gmail.com  
 **GitHub:** [poornimash05](https://github.com/poornimash05)  
 **LinkedIn:** [Poornima Sharma](https://www.linkedin.com/in/poornimasharma05)
+**More about me:** https://poornima-portfolios.netlify.app/
 
 ---
 
